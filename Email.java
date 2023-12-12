@@ -19,8 +19,7 @@ public class Email {
 
     private static Scanner scanner = new Scanner(System.in);
 
-
-
+    
     // CONSTRUCTOR TO RECIEVE THE FIRST AND LAST NAME
 
     Email() {
@@ -88,7 +87,6 @@ public class Email {
                     "\nCOMPANY EMAIL: " + Email + 
                     "\nMAILBOX CAPACITY: " + mailBoxCapacity + "kb";
         }
-
 
 
 
