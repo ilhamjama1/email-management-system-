@@ -1,17 +1,25 @@
-Email Management System
+A Java application is designed to streamline the onboarding process for new employees by automating the creation of company email accounts. Key features are:
 
-Project Aim
 
-You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.
+User-Friendly Onboarding:
+New hires can input their first and last names, select a department, and the system automatically generates a company email address with a secure password.
 
-Your application should do the following:
+Department Code Input:
+Users are prompted to input a department code from a predefined list (Sales, Development, Accounting, or None), ensuring accurate departmental categorization.
 
--Generate an email with the following syntax: firstname.lastname@department.company.com
+Random Password Generation:
+The system generates random passwords to enhance security. Passwords include a mix of uppercase letters, numbers, and special characters.
 
--Determine the department (sales, development, accounting), if none leave blank
+Mailbox Capacity Configuration:
+Users have the flexibility to set their mailbox capacity, allowing customization based on individual needs.
 
--Generate a random String for a password
+Password Change Capability:
+Employees can change their passwords, providing an extra layer of security and personalization.
+File Handling for Data Persistence:
 
--Have set methods to change the password, set the mailbox capacity, and define an alternate email address
+The application also supports saving and loading user data to and from a text file, ensuring that information persists across different program executions.
 
--Have get methods to display the name, email, and mailbox capacity
+How to Use:
+Clone the repository to your local machine.
+Compile and run the Emailapp class.
+Follow the on-screen prompts to input your details and experience the new hire onboarding process.
