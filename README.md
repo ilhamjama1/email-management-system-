@@ -1,4 +1,4 @@
-A Java application is designed to streamline the onboarding process for new employees by automating the creation of company email accounts. Key features are:
+  A Java application is designed to streamline the onboarding process for new employees by automating the creation of company email accounts. Key features are:
 
 
 User-Friendly Onboarding:
