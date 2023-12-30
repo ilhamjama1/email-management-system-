@@ -1,3 +1,5 @@
+## Email Management System Application Project
+  
   A Java application is designed to streamline the onboarding process for new employees by automating the creation of company email accounts. Key features are:
 
 
@@ -22,4 +24,10 @@ The application also supports saving and loading user data to and from a text fi
 How to Use:
 Clone the repository to your local machine.
 Compile and run the Emailapp class.
-Follow the on-screen prompts to input your details and experience the new hire onboarding process.
+Follow the on-screen prompts to input your details and experience the new hire 
+onboarding process.
+
+## References 
+- [Java Project Step by Step Build an Email Admimistration Application](https://youtu.be/U3Ibvu0htNs?si=VAEXfgAMPWkLxImO)
+- (https://projectsgeek.com/2016/02/email-program-system-java-project.html)
+- [Java GUI Tutorial- Make a GUI in 13 minutes](https://youtu.be/5o3fMLPY7qY?si=lAcFV_WwQYqxqN8A)
